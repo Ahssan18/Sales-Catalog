@@ -1,0 +1,8 @@
+{
+  "name": "Remix SalesBook",
+  "description": "Offline snack distribution catalog for salesmen with customizable display sizing, image zoom, and backup/restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
